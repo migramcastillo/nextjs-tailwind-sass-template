@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* purgecss ignore */
 body {
-    @apply bg-teal-200 p-12;
+    @apply bg-gray-200;
 }

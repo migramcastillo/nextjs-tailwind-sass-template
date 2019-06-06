@@ -1,5 +1,5 @@
 {
-  "name": "create-next-example-app",
+  "name": "nextjs-tailwind-purge-sass",
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
+    "next-purgecss": "^3.0.1",
     "node-sass": "^4.12.0",
     "postcss-custom-properties": "^8.0.10",
     "postcss-easy-import": "^3.0.0",
