@@ -16,7 +16,7 @@
   "devDependencies": {
     "autoprefixer": "^9.5.1",
     "next-purgecss": "^3.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "postcss-custom-properties": "^8.0.10",
     "postcss-easy-import": "^3.0.0",
     "postcss-import": "^12.0.1",
